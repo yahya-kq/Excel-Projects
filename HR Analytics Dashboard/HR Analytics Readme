@@ -1,0 +1,58 @@
+HR Analytics Dashboard
+
+Overview
+This project features an HR Analytics Dashboard developed entirely in Microsoft Excel. Its primary purpose is to help visualize and analyze key HR metrics, including employee attrition, demographic breakdowns, and departmental trends.
+
+The goal of this project is to demonstrate Excel's capability for generating powerful, data-driven insights in Human Resource management.
+
+Features
+The dashboard provides interactive and insightful visualizations for the following key metrics:
+
+Total Employees: The overall headcount within the dataset.
+
+Attrition Count: The number of employees who have left the organization.
+
+Active Employees: The current number of employees.
+
+Attrition Rate: The percentage of attrition relative to the total number of employees.
+
+Average Age: The mean age of employees.
+
+Gender Distribution: A breakdown of male versus female employee counts.
+
+Education-wise Attrition: Attrition trends across different education levels.
+
+Attrition by Job Role: Attrition trends categorized by various job titles.
+
+Department-wise Attrition: Attrition analysis across different departments.
+
+Age Group Analysis: Attrition segmented by specific age brackets.
+
+Attrition by Marital Status: Insights into how marital status correlates with attrition.
+
+Interactive Filters (Slicers)
+To enable dynamic data exploration, the dashboard includes interactive slicers for:
+
+Education Field
+
+Department
+
+These slicers allow users to filter the data dynamically and customize their view for deeper analysis.
+
+Data Source
+The data utilized in this project was publicly available and sourced from Google, intended solely for demonstration purposes.
+
+How to Use
+Open the Excel file included in this repository.
+
+Use the slicers to filter the dashboard by department or education field.
+
+Explore the visual summaries to gain valuable HR insights.
+
+Feedback & Contact
+For any feedback, questions, or collaboration opportunities, please feel free to reach out:
+
+📧 yahyaqureshi012@gmail.com
+
+Disclaimer
+This project is intended for educational and demonstration purposes only. The dataset used does not represent real employee data. The author is not responsible for the accuracy or reliability of the insights provided by this dashboard.
